@@ -16,7 +16,7 @@
 5. Update inventory after purchase
 6. Sales JSON
 
-## Number of Files >
+## Number of Files
 There are two file
 
 1. record.json : In this file we contain all the data relted two products.
